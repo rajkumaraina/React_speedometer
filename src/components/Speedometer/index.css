@@ -1,0 +1,35 @@
+.container {
+  background-color: #07080c;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.heading {
+  color: #ffffff;
+}
+.img {
+  width: 450px;
+  height: 250px;
+}
+.speed {
+  color: #ffffff;
+}
+.para {
+  color: #cbd5e1;
+}
+.button1 {
+  background-color: #0b69ff;
+  padding: 8px;
+  cursor: pointer;
+  border-radius: 8px;
+  border: 0px none;
+  margin-right: 5px;
+}
+.button2 {
+  border: 2px solid;
+  padding: 8px;
+  cursor: pointer;
+  border-radius: 8px;
+}
